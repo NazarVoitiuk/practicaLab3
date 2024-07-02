@@ -1,0 +1,3 @@
+interface Displayable {
+    String display();
+}
